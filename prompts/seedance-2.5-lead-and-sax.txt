@@ -1,0 +1,3 @@
+Replace the lead singer with the person in image 1.
+Replace the saxophone player with the person in image 2.
+Keep everything else the same: the room, the other musicians, the cuts and the timing.
