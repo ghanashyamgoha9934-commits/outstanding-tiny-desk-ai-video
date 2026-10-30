@@ -6,9 +6,9 @@ How to make the viral **Outstanding Tiny Desk AI video**: the meme where a coach
 
 > All images in this repo are AI-generated and show fictional people. This is an independent guide and is not affiliated with NPR, Tiny Desk, Charlie Wilson, The Gap Band or ByteDance.
 
-## The fastest way: one photo
+## The fastest way: photos in, video out
 
-If you just want the video, [Tiny Desk AI](https://tinydesk-ai.com/) makes it from one photo. Upload a clear photo of an adult who agreed to it, confirm, and download a vertical 9:16 MP4 with the original sound, ready for TikTok, Reels and Shorts. You don't need a prompt or an editor.
+If you just want the video, [Tiny Desk AI](https://tinydesk-ai.com/?utm_source=github&utm_medium=referral&utm_campaign=readme) makes the full 19-second version from one to five photos: one for the lead singer, up to four friends for keys, sax and the backing singers. Confirm that everyone agreed, and download a vertical 9:16 MP4 with the original song, ready for TikTok, Reels and Shorts. You don't need a prompt or an editor.
 
 ![From one selfie to the desk concert](images/td-photo-to-video.png)
 
@@ -17,6 +17,8 @@ If you just want the video, [Tiny Desk AI](https://tinydesk-ai.com/) makes it fr
 - **The clip:** the end of Charlie Wilson's NPR Tiny Desk concert (published 5 June 2023).
 - **The song:** "Outstanding" by The Gap Band (1982, *Gap Band IV*).
 - **The joke:** after a brutal college football weekend in October 2026, creators put the losing coaches behind the desk, singing about being "outstanding". Then everyone made one: players, rival fans, coworkers, dads.
+
+For real results, render times and what it costs for one to five people, see [What Is Tiny Desk AI?](https://huggingface.co/blog/akagease/what-is-tiny-desk-ai) on Hugging Face.
 
 ![Saturday's loss, Sunday's concert](images/td-loss-vs-desk.png)
 
@@ -64,6 +66,7 @@ Only use photos of adults who agreed. Don't use celebrities, public figures or s
 
 ## More
 
+- What the trend is, with real results and costs: [What Is Tiny Desk AI?](https://huggingface.co/blog/akagease/what-is-tiny-desk-ai)
 - Full step-by-step guide on Hugging Face: [Tiny Desk AI Video with Seedance 2.5](https://huggingface.co/blog/akagease/how-to-make-tiny-desk-ai-video)
 - One-photo maker: [tinydesk-ai.com](https://tinydesk-ai.com/)
 - Tutorial: [How to make the Outstanding Tiny Desk AI video](https://tinydesk-ai.com/how-to-make-outstanding-tiny-desk-ai-video)
