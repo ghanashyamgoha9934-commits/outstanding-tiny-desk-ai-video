@@ -70,3 +70,5 @@ Only use photos of adults who agreed. Don't use celebrities, public figures or s
 - Full step-by-step guide on Hugging Face: [Tiny Desk AI Video with Seedance 2.5](https://huggingface.co/blog/akagease/how-to-make-tiny-desk-ai-video)
 - One-photo maker: [tinydesk-ai.com](https://tinydesk-ai.com/)
 - Tutorial: [How to make the Outstanding Tiny Desk AI video](https://tinydesk-ai.com/how-to-make-outstanding-tiny-desk-ai-video)
+
+- Shot map and CapCut steps: [Outstanding Tiny Desk AI Template](https://huggingface.co/blog/akagease/outstanding-tiny-desk-ai-template)
